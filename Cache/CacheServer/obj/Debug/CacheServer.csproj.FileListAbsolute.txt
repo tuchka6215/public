@@ -1,0 +1,13 @@
+C:\Users\rm198\source\repos\Cache\Cache\bin\Debug\CacheServer.exe.config
+C:\Users\rm198\source\repos\Cache\Cache\bin\Debug\CacheServer.exe
+C:\Users\rm198\source\repos\Cache\Cache\bin\Debug\CacheServer.pdb
+C:\Users\rm198\source\repos\Cache\Cache\obj\Debug\CacheServer.csproj.CoreCompileInputs.cache
+C:\Users\rm198\source\repos\Cache\Cache\obj\Debug\CacheServer.exe
+C:\Users\rm198\source\repos\Cache\Cache\obj\Debug\CacheServer.pdb
+C:\github\public\Cache\CacheServer\bin\Debug\CacheServer.exe.config
+C:\github\public\Cache\CacheServer\bin\Debug\CacheServer.exe
+C:\github\public\Cache\CacheServer\bin\Debug\CacheServer.pdb
+C:\github\public\Cache\CacheServer\obj\Debug\CacheServer.csprojAssemblyReference.cache
+C:\github\public\Cache\CacheServer\obj\Debug\CacheServer.csproj.CoreCompileInputs.cache
+C:\github\public\Cache\CacheServer\obj\Debug\CacheServer.exe
+C:\github\public\Cache\CacheServer\obj\Debug\CacheServer.pdb

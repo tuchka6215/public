@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheServer", "CacheServer\CacheServer.csproj", "{82AA2ACE-17C9-423D-AC26-21127CDF101D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheClient", "CacheClient\CacheClient.csproj", "{3FA9B847-8314-42EC-BA8B-5B5E73B5D857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82AA2ACE-17C9-423D-AC26-21127CDF101D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AA2ACE-17C9-423D-AC26-21127CDF101D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AA2ACE-17C9-423D-AC26-21127CDF101D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AA2ACE-17C9-423D-AC26-21127CDF101D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA9B847-8314-42EC-BA8B-5B5E73B5D857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA9B847-8314-42EC-BA8B-5B5E73B5D857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA9B847-8314-42EC-BA8B-5B5E73B5D857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA9B847-8314-42EC-BA8B-5B5E73B5D857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA8D3361-7DC3-4329-A358-14884A215B75}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\rm198\source\repos\Cache\CacheClient\bin\Debug\CacheClient.exe.config
+C:\Users\rm198\source\repos\Cache\CacheClient\bin\Debug\CacheClient.exe
+C:\Users\rm198\source\repos\Cache\CacheClient\bin\Debug\CacheClient.pdb
+C:\Users\rm198\source\repos\Cache\CacheClient\obj\Debug\CacheClient.csproj.CoreCompileInputs.cache
+C:\Users\rm198\source\repos\Cache\CacheClient\obj\Debug\CacheClient.exe
+C:\Users\rm198\source\repos\Cache\CacheClient\obj\Debug\CacheClient.pdb
+C:\github\public\Cache\CacheClient\bin\Debug\CacheClient.exe.config
+C:\github\public\Cache\CacheClient\bin\Debug\CacheClient.exe
+C:\github\public\Cache\CacheClient\bin\Debug\CacheClient.pdb
+C:\github\public\Cache\CacheClient\obj\Debug\CacheClient.csprojAssemblyReference.cache
+C:\github\public\Cache\CacheClient\obj\Debug\CacheClient.csproj.CoreCompileInputs.cache
+C:\github\public\Cache\CacheClient\obj\Debug\CacheClient.exe
+C:\github\public\Cache\CacheClient\obj\Debug\CacheClient.pdb
